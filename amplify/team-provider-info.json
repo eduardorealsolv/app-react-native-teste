@@ -14,6 +14,12 @@
     "categories": {
       "api": {
         "appteste1reactnative": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d35lnh0jwk7twu",
+          "type": "manual"
+        }
       }
     }
   }
