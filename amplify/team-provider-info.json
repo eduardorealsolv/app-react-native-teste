@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-appteste1reactnative-dev-43739-authRole",
+      "UnauthRoleArn": "arn:aws:iam::463640756721:role/amplify-appteste1reactnative-dev-43739-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::463640756721:role/amplify-appteste1reactnative-dev-43739-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-appteste1reactnative-dev-43739-deployment",
+      "UnauthRoleName": "amplify-appteste1reactnative-dev-43739-unauthRole",
+      "StackName": "amplify-appteste1reactnative-dev-43739",
+      "StackId": "arn:aws:cloudformation:us-east-1:463640756721:stack/amplify-appteste1reactnative-dev-43739/f34d9ad0-2a7e-11ef-b391-12cc93e68a1d",
+      "AmplifyAppId": "d35lnh0jwk7twu"
+    },
+    "categories": {
+      "api": {
+        "appteste1reactnative": {}
+      }
+    }
+  }
+}
